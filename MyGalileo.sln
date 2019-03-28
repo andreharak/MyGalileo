@@ -1,0 +1,27 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyGalileoLibrary", "MyGalileoLibrary\MyGalileoLibrary.csproj", "{6C272F22-FB9D-4554-98CD-678D5DD19D10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyGalileoCocoa", "MyGalileoMac\MyGalileoCocoa.csproj", "{38E260D8-70BE-4D7E-A9FB-CF61D2A6DBFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C272F22-FB9D-4554-98CD-678D5DD19D10}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{6C272F22-FB9D-4554-98CD-678D5DD19D10}.Debug|x86.Build.0 = Debug|Any CPU
+		{6C272F22-FB9D-4554-98CD-678D5DD19D10}.Release|x86.ActiveCfg = Release|Any CPU
+		{6C272F22-FB9D-4554-98CD-678D5DD19D10}.Release|x86.Build.0 = Release|Any CPU
+		{38E260D8-70BE-4D7E-A9FB-CF61D2A6DBFC}.Debug|x86.ActiveCfg = Debug|x86
+		{38E260D8-70BE-4D7E-A9FB-CF61D2A6DBFC}.Debug|x86.Build.0 = Debug|x86
+		{38E260D8-70BE-4D7E-A9FB-CF61D2A6DBFC}.Release|x86.ActiveCfg = Release|x86
+		{38E260D8-70BE-4D7E-A9FB-CF61D2A6DBFC}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		Policies = $0
+		$0.VersionControlPolicy = $1
+	EndGlobalSection
+EndGlobal
