@@ -6,12 +6,12 @@ MyGalileo is a simple Xamarin.Mac Cocoa app that uses the current Geolocation of
 
 This app includes:
 
-- C# Xamarin for MacOS <link href="https://docs.microsoft.com/en-us/xamarin/mac/" rel="stylesheet">.
+- C# Xamarin for MacOS: <a href="https://docs.microsoft.com/en-us/xamarin/mac/">Xamarin.Mac</a>
 - Cocoa app development (using Visual Studio and Xcode).
-- using Azure Maps API (http://azure.microsoft.com).
-- using RestSharp (Simple REST and HTTP API Client for .NET) (http://restsharp.org).
-- using Newtonsoft.Json to dynamicallyx deserialize Json into object (https://www.newtonsoft.com/json).
-- using Xam.Plugin.Geolocator plugin (https://www.nuget.org/packages/Xam.Plugin.Geolocator/).
+- using Azure Maps API: <a href="http://azure.microsoft.com">Azure-Maps</a>
+- using RestSharp (Simple REST and HTTP API Client for .NET): <a href="http://restsharp.org">RestSharp</a>
+- using Newtonsoft.Json to dynamicallyx deserialize Json into object: <a href="https://www.newtonsoft.com/json">Newtonsoft.Json</a>
+- using Xam.Plugin.Geolocator plugin: <a href="https://www.nuget.org/packages/Xam.Plugin.Geolocator/">Xam.Plugin.Geolocator</a>
 
 # User Interface
 
