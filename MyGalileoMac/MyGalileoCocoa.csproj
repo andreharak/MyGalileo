@@ -123,6 +123,7 @@
     <BundleResource Include="Resources\MyGalileo1_empty_form.png" />
     <BundleResource Include="Resources\MyGalileo3_no_internet_connection.png" />
     <BundleResource Include="Resources\MyGalileo4_results.png" />
+    <BundleResource Include="Resources\sample.gif" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Mac\Xamarin.Mac.CSharp.targets" />
 </Project>
