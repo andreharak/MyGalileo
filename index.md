@@ -15,6 +15,8 @@ This app includes:
 
 # User Interface
 
+<img src="https://github.com/AndreaDaVinci/MyGalileo/raw/master/MyGalileoMac/Resources/sample.gif" alt="hi" class="inline"/>
+
 ### Welcome window:
 
 <img src="https://github.com/AndreaDaVinci/MyGalileo/raw/master/MyGalileoMac/Resources/MyGalileo1_empty_form.png" alt="hi" class="inline"/>
