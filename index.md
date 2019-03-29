@@ -36,4 +36,4 @@ You can download the [MacOS application](https://github.com/AndreaDaVinci/MyGali
 
 # Notes
 
-If you try the application and it does not work, please replace the variable AzureMapsKey with your own Azure Maps API key from Microsoft after subscribing to the free service.
+If the AzureMapsKey is no longer valid, please replace it with your own Azure Maps API key from Microsoft after subscribing to the free service.
