@@ -1,6 +1,7 @@
 ### Welcome to MyGalileo app for MacOS
 
 MyGalileo is a simple Xamarin.Mac Cocoa app that uses the current Geolocation of the user to fetch and display key information using Azure Maps API.
+For more details, check the <a href="https://medium.com/@AndreaDaVinci/mygalileo-app-for-macos-aec620a69953">article on Medium</a>.
 
 # Ingredients
 
