@@ -11,7 +11,7 @@ This app includes:
 - Cocoa app development (using Visual Studio and Xcode).
 - using Azure Maps API: <a href="http://azure.microsoft.com">Azure-Maps</a>
 - using RestSharp (Simple REST and HTTP API Client for .NET): <a href="http://restsharp.org">RestSharp</a>
-- using Newtonsoft.Json to dynamicallyx deserialize Json into object: <a href="https://www.newtonsoft.com/json">Newtonsoft.Json</a>
+- using Newtonsoft.Json to dynamically deserialize Json into object: <a href="https://www.newtonsoft.com/json">Newtonsoft.Json</a>
 - using Xam.Plugin.Geolocator plugin: <a href="https://www.nuget.org/packages/Xam.Plugin.Geolocator/">Xam.Plugin.Geolocator</a>
 
 # User Interface
