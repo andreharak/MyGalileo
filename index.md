@@ -16,19 +16,19 @@ This app includes:
 
 # User Interface
 
-<img src="https://github.com/AndreaDaVinci/MyGalileo/raw/master/MyGalileoMac/Resources/sample.gif" alt="hi" class="center"/>
+<img src="https://github.com/AndreaDaVinci/MyGalileo/raw/master/MyGalileoMacOS/Resources/sample.gif" alt="hi" class="center"/>
 
 ### Welcome window:
 
-<img src="https://github.com/AndreaDaVinci/MyGalileo/raw/master/MyGalileoMac/Resources/MyGalileo1_empty_form.png" alt="hi" class="inline"/>
+<img src="https://github.com/AndreaDaVinci/MyGalileo/raw/master/MyGalileoMacOS/Resources/MyGalileo1_empty_form.png" alt="hi" class="inline"/>
 
 ### Requesting permission to locate device:
 
-<img src="https://github.com/AndreaDaVinci/MyGalileo/raw/master/MyGalileoMac/Resources/MyGalileo2_request_permission.png" alt="hi" class="inline"/>
+<img src="https://github.com/AndreaDaVinci/MyGalileo/raw/master/MyGalileoMacOS/Resources/MyGalileo2_request_permission.png" alt="hi" class="inline"/>
 
 ### Results window:
 
-<img src="https://github.com/AndreaDaVinci/MyGalileo/raw/master/MyGalileoMac/Resources/MyGalileo4_results.png" alt="hi" class="inline"/>
+<img src="https://github.com/AndreaDaVinci/MyGalileo/raw/master/MyGalileoMacOS/Resources/MyGalileo4_results.png" alt="hi" class="inline"/>
 
 # Install on MacOS
 
