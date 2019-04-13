@@ -1,6 +1,6 @@
 ﻿using AppKit;
 
-namespace MyGalileoMac
+namespace MyGalileoMacOS
 {
     static class MainClass
     {

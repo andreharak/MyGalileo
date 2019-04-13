@@ -1,7 +1,7 @@
 ﻿using AppKit;
 using Foundation;
 
-namespace MyGalileoMac
+namespace MyGalileoMacOS
 {
     [Register("AppDelegate")]
     public class AppDelegate : NSApplicationDelegate
