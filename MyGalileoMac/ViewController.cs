@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Linq;
+using System.Threading.Tasks;
 using AppKit;
 using Foundation;
 using MyGalileoLibrary;
@@ -58,13 +59,13 @@ namespace MyGalileoMac
                 {
                     FillFormPart1();
 
-                    GetAndFillHospital();
+                    await GetAndFillHospital();
 
-                    GetAndFillUniversity();
+                    await GetAndFillUniversity();
 
-                    GetAndFillMuseum();
+                    await GetAndFillMuseum();
 
-                    GetAndFillAirport();
+                    await GetAndFillAirport();
 
                     EnableButtonDisablePreloader();
                 }
@@ -106,30 +107,30 @@ namespace MyGalileoMac
             DistanceFromAirport.StringValue = txt;
         }
 
-        private void GetAndFillHospital()
+        private async Task GetAndFillHospital()
         {
-            GeoManager.GetClosestHospital();
+            await Task.Run(() => GeoManager.GetClosestHospital());
 
             FillFormPart2();
         }
 
-        private void GetAndFillUniversity()
+        private async Task GetAndFillUniversity()
         {
-            GeoManager.GetClosestUniversity();
+            await Task.Run(() => GeoManager.GetClosestUniversity());
 
             FillFormPart3();
         }
 
-        private void GetAndFillMuseum()
+        private async Task GetAndFillMuseum()
         {
-            GeoManager.GetClosestMuseum();
+            await Task.Run(() => GeoManager.GetClosestMuseum());
 
             FillFormPart4();
         }
 
-        private void GetAndFillAirport()
+        private async Task GetAndFillAirport()
         {
-            GeoManager.GetClosestAirport();
+            await Task.Run(() => GeoManager.GetClosestAirport());
 
             FillFormPart5();
         }
