@@ -8,7 +8,7 @@ For more details, check the <a href="https://medium.com/@AndreaDaVinci/mygalileo
 This app includes:
 
 - C# Xamarin for MacOS: <a href="https://docs.microsoft.com/en-us/xamarin/mac/">Xamarin.Mac</a>
-- Cocoa app development (using Visual Studio and Xcode).
+- Cocoa app development (using Visual Studio and Xcode)
 - using Azure Maps API: <a href="http://azure.microsoft.com">Azure-Maps</a>
 - using RestSharp (Simple REST and HTTP API Client for .NET): <a href="http://restsharp.org">RestSharp</a>
 - using Newtonsoft.Json to dynamically deserialize Json into object: <a href="https://www.newtonsoft.com/json">Newtonsoft.Json</a>
